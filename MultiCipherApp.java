@@ -10,7 +10,7 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
-public class MultiCipherAppp extends Application{
+public class MultiCipherApp extends Application{
     public static void main(String[] args) {
         launch(args);
     }
